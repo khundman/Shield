@@ -1,0 +1,8 @@
+Shield Compliance
+
+Window.Test in 'Jrootapp' line 114
+
+Trying to edit guarded code in JpanelConfigGeneral to point to shield logo without having to specify path locally
+
+Line 330 in JRootApp for startup icon (placed it in src-beans/images folder as Shield.png)
+Upper right hand logo is in this file as well as powereby_uni.png
